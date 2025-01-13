@@ -1,2 +1,3 @@
 *.b linguist-language=Brainfuck
 *.mal linguist-language=Malbolge
+*.ws linguist-language=Whitespace
