@@ -1,3 +1,7 @@
 *.b linguist-language=Brainfuck
 *.mal linguist-language=Malbolge
 *.ws linguist-language=Whitespace
+
+*.b linguist-vendored=false
+*.mal linguist-vendored=false
+*.ws linguist-vendored=false
