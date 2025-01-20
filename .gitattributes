@@ -1,6 +1,6 @@
 *.b linguist-language=Brainfuck
-*.mal linguist-language=Unknown
-*.ws linguist-language=Unknown
+*.mal linguist-language=other
+*.ws linguist-language=other
 
 *.b linguist-vendored=false
 *.mal linguist-vendored=false
