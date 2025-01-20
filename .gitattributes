@@ -1,7 +1,11 @@
+# Map .b files to Brainfuck
 *.b linguist-language=Brainfuck
+
+# Map .mal and .ws files to "Other"
 *.mal linguist-language=other
 *.ws linguist-language=other
 
+# Mark these file types as non-vendored (they won't be ignored by GitHub Linguist)
 *.b linguist-vendored=false
 *.mal linguist-vendored=false
 *.ws linguist-vendored=false
